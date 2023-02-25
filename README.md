@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on IT field ...
 - 📫 How to reach me through my email-hridikhh@gmail.com...
 - 🎯Android developer
+-  🛰Web development
 
 <!---
 hrithik1233/hrithik1233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
